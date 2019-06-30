@@ -116,6 +116,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Contraste](https://contrasteapp.com/) - simple color contrast ratio viewer
 - [Medis](https://github.com/luin/medis) - redis client
 - [Proxyman](https://proxyman.app/) - proxy client for apps
+- [brew-services-menubar](https://github.com/andrewn/brew-services-menubar) - managing brew services from menubar
 
 ### Music
 
