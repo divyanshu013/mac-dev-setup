@@ -96,6 +96,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Dozer](https://dozermac.com/) - hide menu bar icons
 - [Android File Transfer](https://www.android.com/filetransfer/) - for android phones
 - [Alfred](https://www.alfredapp.com/) - <kbd>Cmd</kbd> + <kbd>Space</kbd> everything
+- [Pock](https://pock.dev/) - touchbar dock
 
 ### Dev
 
