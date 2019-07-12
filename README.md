@@ -29,7 +29,7 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 3. Install brew packages.
 
 ```sh
-brew install git vim yarn wget watchman
+brew install git vim yarn wget watchman tree
 ```
 
 4. Configure `git`:
