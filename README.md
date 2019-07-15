@@ -83,10 +83,11 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 
 ### Utils
 
+- [Dato](https://sindresorhus.com/dato) - better date menu bar app
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369?mt=12) - bandwidth monitoring
 - [Sensible side button](https://sensible-side-buttons.archagon.net/) - for gaming mouse
 - [Scroll reverser](https://pilotmoon.com/scrollreverser/) - auto scroll reverse on mouse
-- [Itsycal](hhttps://www.mowglii.com/itsycal/) - view calendar from menu bar
+- [Itsycal](https://www.mowglii.com/itsycal/) - view calendar from menu bar
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - prevent mac from sleeping
 - [Clipy](https://clipy-app.com/) - clipboard manager
 - [Spectacle](https://www.spectacleapp.com/) - window manager
