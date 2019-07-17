@@ -111,6 +111,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Insomnia](https://insomnia.rest/) - rest client
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger/) - react native debugging
 - [GraphQL Playground](https://github.com/prisma/graphql-playground) - graphql client
+- [Table Plus](https://tableplus.io/) - the DB app
 - [Sequel Pro](https://www.sequelpro.com/) - MySQL client
 - [Postgres app](https://postgresapp.com/downloads.html) - Postgres for mac
 - [Postico app](https://eggerapps.at/postico/) - Postgres client
