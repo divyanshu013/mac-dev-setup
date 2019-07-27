@@ -75,6 +75,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [cliflix](https://github.com/fabiospampinato/cliflix)
 - [sudo](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/sudo)
 - [web-search](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/web-search)
+- [jay](https://github.com/nikersify/jay)
 
 ### Browsers
 
