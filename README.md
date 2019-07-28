@@ -145,7 +145,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Figma](https://www.figma.com/downloads/) - design software
 - [IINA](https://iina.io/) - media player
 - [Pym](https://apps.apple.com/in/app/pym/id1451733095?mt=12&app=apps&ign-mpt=uo%3D4) - image compression
-- [Davinci Resolve](https://apps.apple.com/in/app/davinci-resolve/id571213070?mt=12) - video editing
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - video editing
 - [Buttercup](https://buttercup.pw/) - password manager
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - app uninstaller
 - [Authy](https://authy.com/download/) - 2FA client
