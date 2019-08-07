@@ -122,6 +122,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Medis](https://github.com/luin/medis) - redis client
 - [Proxyman](https://proxyman.app/) - proxy client for apps
 - [brew-services-menubar](https://github.com/andrewn/brew-services-menubar) - managing brew services from menubar
+- [ngrok](https://ngrok.com/download) - localhost tunnel
 
 ### Music
 
@@ -151,6 +152,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Authy](https://authy.com/download/) - 2FA client
 - [Clocker](https://apps.apple.com/us/app/clocker-menubar-world-clock/id1056643111?mt=12) - timezones menubar app
 - [Flip clock screensaver](https://fliqlo.com/#/screensaver) - nice screensaver
+- [Gifski](https://github.com/sindresorhus/Gifski) - videos to gif
 
 ## Author
 
