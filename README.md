@@ -90,7 +90,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Scroll reverser](https://pilotmoon.com/scrollreverser/) - auto scroll reverse on mouse
 - [Itsycal](https://www.mowglii.com/itsycal/) - view calendar from menu bar
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - prevent mac from sleeping
-- [Clipy](https://clipy-app.com/) - clipboard manager
+- [Maccy](https://github.com/p0deje/Maccy) - clipboard manager
 - [Spectacle](https://www.spectacleapp.com/) - window manager
 - [Kap](https://getkap.co/) - screen recorder
 - [Mounty](https://mounty.app/) - NTFS volumes in write mode
@@ -101,6 +101,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Pock](https://pock.dev/) - touchbar dock
 - [Oversight](https://objective-see.com/products/oversight.html) - monitor for mic and webcam
 - [Mute me](https://objective-see.com/products/oversight.html) - mute touchbar toggle
+- [Markdown here](https://github.com/adam-p/markdown-here) - email in markdown
 
 ### Dev
 
@@ -123,6 +124,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Proxyman](https://proxyman.app/) - proxy client for apps
 - [brew-services-menubar](https://github.com/andrewn/brew-services-menubar) - managing brew services from menubar
 - [ngrok](https://ngrok.com/download) - localhost tunnel
+- [RunJS](https://runjs.dev/) - JS runtime desktop app that executes as you type
 
 ### Music
 
