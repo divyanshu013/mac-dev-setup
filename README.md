@@ -144,6 +144,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Dropbox](https://www.dropbox.com/downloading) - cloud storage
 - [Steam](https://store.steampowered.com/about/) - games
 - [Notable](https://github.com/notable/notable/releases) - markdown editor
+- [Typora](https://typora.io/) - markdown editor
 - [Discord](https://discordapp.com/api/download?platform=osx) - chat client
 - [Figma](https://www.figma.com/downloads/) - design software
 - [IINA](https://iina.io/) - media player
