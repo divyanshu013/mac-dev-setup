@@ -91,7 +91,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Itsycal](https://www.mowglii.com/itsycal/) - view calendar from menu bar
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - prevent mac from sleeping
 - [Maccy](https://github.com/p0deje/Maccy) - clipboard manager
-- [Spectacle](https://www.spectacleapp.com/) - window manager
+- [Rectangle](https://rectangleapp.com/) - window manager
 - [Kap](https://getkap.co/) - screen recorder
 - [Mounty](https://mounty.app/) - NTFS volumes in write mode
 - [Thor](https://apps.apple.com/cn/app/thor/id1120999687?l=en&mt=12) - painless application switching
