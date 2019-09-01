@@ -24,6 +24,21 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 1. Install [Firefox](https://www.mozilla.org/en-US/firefox/mac/).
 
+- Add `userChrome.css` to prevent flash of white screen
+
+```css
+:root {
+  --in-content-page-background: #202020;
+}
+#browser vbox#appcontent tabbrowser,
+#content,
+#tabbrowser-tabpanels,
+browser[type="content-primary"],
+browser[type="content"] > html {
+  background: var(--in-content-page-background) !important;
+}
+```
+
 2. Install [homebrew](https://brew.sh/). Also installs command line tools.
 
 3. Install brew packages.
