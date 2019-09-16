@@ -44,7 +44,7 @@ browser[type="content"] > html {
 3. Install brew packages.
 
 ```sh
-brew install git vim yarn wget watchman tree
+brew install git vim yarn wget watchman tree hub
 ```
 
 4. Configure `git`:
@@ -158,8 +158,9 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Black Out](https://apps.apple.com/no/app/black-out/id1319884285) - hide sensitive information on images
 - [Dropbox](https://www.dropbox.com/downloading) - cloud storage
 - [Steam](https://store.steampowered.com/about/) - games
-- [Notable](https://github.com/notable/notable/releases) - markdown editor
+- [Notable](https://github.com/notable/notable/releases) - simple markdown editor
 - [Typora](https://typora.io/) - markdown editor
+- [Mark Text](https://github.com/marktext/marktext) - markdown editor like typora but open-source
 - [Discord](https://discordapp.com/api/download?platform=osx) - chat client
 - [Figma](https://www.figma.com/downloads/) - design software
 - [IINA](https://iina.io/) - media player
