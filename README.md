@@ -44,7 +44,7 @@ browser[type="content"] > html {
 3. Install brew packages.
 
 ```sh
-brew install git vim yarn wget watchman tree hub git-standup
+brew install git vim yarn wget watchman tree hub git-standup ffmpeg
 ```
 
 4. Configure `git`:
