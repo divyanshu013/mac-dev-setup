@@ -20,6 +20,8 @@
 defaults write -g ApplePressAndHoldEnabled -bool false
 ```
 
+5. Fix a11y (awful mac default): Preferences -> Keyboard -> Shortcuts -> Use keyboard navigation to move focus between controls
+
 ## Setup
 
 1. Install [Firefox](https://www.mozilla.org/en-US/firefox/mac/).
@@ -38,6 +40,8 @@ browser[type="content"] > html {
   background: var(--in-content-page-background) !important;
 }
 ```
+
+- In [about:config](about:config) set `accessibility.tabfocus` to `7`
 
 2. Install [homebrew](https://brew.sh/). Also installs command line tools.
 
