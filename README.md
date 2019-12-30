@@ -121,6 +121,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Oversight](https://objective-see.com/products/oversight.html) - monitor for mic and webcam
 - [Mute me](https://objective-see.com/products/oversight.html) - mute touchbar toggle
 - [Markdown here](https://github.com/adam-p/markdown-here) - email in markdown
+- [Mos](https://github.com/Caldis/Mos) - smooth scrolling with external mouse
 
 ### Dev
 
