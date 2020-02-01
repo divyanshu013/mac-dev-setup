@@ -48,7 +48,7 @@ browser[type="content"] > html {
 3. Install brew packages.
 
 ```sh
-brew install git vim yarn wget watchman tree hub git-standup ffmpeg
+brew install git vim yarn wget watchman tree hub git-standup ffmpeg github/gh/gh
 ```
 
 4. Configure `git`:
@@ -109,6 +109,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Scroll reverser](https://pilotmoon.com/scrollreverser/) - auto scroll reverse on mouse
 - [Itsycal](https://www.mowglii.com/itsycal/) - view calendar from menu bar
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - prevent mac from sleeping
+- [Lungo](https://sindresorhus.com/lungo) - prevent mac from sleeping
 - [Maccy](https://github.com/p0deje/Maccy) - clipboard manager
 - [Rectangle](https://rectangleapp.com/) - window manager
 - [Kap](https://getkap.co/) - screen recorder
@@ -122,6 +123,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Mute me](https://objective-see.com/products/oversight.html) - mute touchbar toggle
 - [Markdown here](https://github.com/adam-p/markdown-here) - email in markdown
 - [Mos](https://github.com/Caldis/Mos) - smooth scrolling with external mouse
+- [Flotato](https://flotato.com/) - turn any webpage into floating app
 
 ### Dev
 
