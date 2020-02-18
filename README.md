@@ -99,7 +99,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 ### Browsers
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - the best web browser
-- [Chrome](https://www.google.com/chrome/) - because somethings work only on chrome
+- <s>[Chrome](https://www.google.com/chrome/)</s> [Brave](https://brave.com/download/) - because somethings work only on chrome
 
 ### Utils
 
