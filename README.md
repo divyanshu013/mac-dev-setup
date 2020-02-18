@@ -160,6 +160,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 
 ### Apps
 
+- [Raindrop](http://raindrop.io/) - all my bookmarks
 - [TunnelBear](https://www.tunnelbear.com/apps/mac) - VPN client
 - [Zoom](https://zoom.us/download#client_4meeting) - video calls
 - [Black Out](https://apps.apple.com/no/app/black-out/id1319884285) - hide sensitive information on images
