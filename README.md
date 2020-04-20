@@ -119,6 +119,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Android File Transfer](https://www.android.com/filetransfer/) - for android phones
 - [Alfred](https://www.alfredapp.com/) - <kbd>Cmd</kbd> + <kbd>Space</kbd> everything
 - [Pock](https://pock.dev/) - touchbar dock
+- [MTMR](https://github.com/Toxblh/MTMR) - touchbar customizations
 - [Oversight](https://objective-see.com/products/oversight.html) - monitor for mic and webcam
 - [Mute me](https://objective-see.com/products/oversight.html) - mute touchbar toggle
 - [Markdown here](https://github.com/adam-p/markdown-here) - email in markdown
