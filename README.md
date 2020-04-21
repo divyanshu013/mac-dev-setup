@@ -125,6 +125,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Markdown here](https://github.com/adam-p/markdown-here) - email in markdown
 - [Mos](https://github.com/Caldis/Mos) - smooth scrolling with external mouse
 - [Flotato](https://flotato.com/) - turn any webpage into floating app
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - auto pause music
 
 ### Dev
 
