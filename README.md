@@ -173,6 +173,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Typora](https://typora.io/) - markdown editor
 - [Mark Text](https://github.com/marktext/marktext) - markdown editor like typora but open-source
 - [Discord](https://discordapp.com/api/download?platform=osx) - chat client
+- [Telegram](https://telegram.org/) - chat client
 - [Figma](https://www.figma.com/downloads/) - design software
 - [IINA](https://iina.io/) - media player
 - [Pym](https://apps.apple.com/in/app/pym/id1451733095?mt=12&app=apps&ign-mpt=uo%3D4) - image compression
