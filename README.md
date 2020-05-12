@@ -59,6 +59,8 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 
 2. Install [dotfiles](https://github.com/divyanshu013/dotfiles/)
 
+3. Install [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+
 #### CLI plugins
 
 - [ZSH autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
