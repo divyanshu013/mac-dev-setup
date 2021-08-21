@@ -172,6 +172,12 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Flip clock screensaver](https://fliqlo.com/#/screensaver) - nice screensaver
 - [Gifski](https://github.com/sindresorhus/Gifski) - videos to gif
 
+## Related
+
+- [Linux dev setup](https://github.com/divyanshu013/linux-dev-setup)
+- [Mac dev setup](https://github.com/divyanshu013/mac-dev-setup)
+- [Dotfiles](https://github.com/divyanshu013/dotfiles)
+
 ## Author
 
 - [@divyanshu013](https://twitter.com/divyanshu013) 👋
