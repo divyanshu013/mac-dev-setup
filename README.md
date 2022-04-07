@@ -43,7 +43,7 @@ git config --global user.name "First Last"
 git config --global user.email email@email.com
 ```
 
-5. Install [Fira Code](https://github.com/tonsky/FiraCode/wiki#installing-font), [flottflott](https://www.dafont.com/flottflott.font), [Space Mono](https://github.com/googlefonts/spacemono) and [Script12](https://www.dafontfree.net/freefonts-script12-bt-f141942.htm) fonts
+5. Install [Cascadia Code](https://github.com/microsoft/cascadia-code#installation) font
 
 6. Add [GPG](https://help.github.com/en/articles/managing-commit-signature-verification) and [SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh) keys
 
@@ -71,26 +71,24 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [fzf](https://github.com/junegunn/fzf)
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli)
 - [fx](https://github.com/antonmedv/fx)
-- [bat](https://github.com/sharkdp/bat#on-macos)
-- [mps-youtube](https://github.com/mps-youtube/mps-youtube)
+- [bat](https://github.com/sharkdp/bat#on-macos-or-linux-via-homebrew)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
-- [screenfetch](https://github.com/KittyKatt/screenFetch)
 - [pgcli](https://www.pgcli.com/)
 - [mycli](https://www.mycli.net/)
 - [ag](https://github.com/ggreer/the_silver_searcher)
 - [cleanup](https://github.com/fwartner/mac-cleanup)
-- [cliflix](https://github.com/fabiospampinato/cliflix)
 - [sudo](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/sudo)
 - [web-search](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/web-search)
 - [jay](https://github.com/nikersify/jay)
 
 ### Browsers
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - the best web browser
+- [Firefox](https://www.mozilla.org/en-US/firefox/mac/)
 - <s>[Chrome](https://www.google.com/chrome/)</s> [Brave](https://brave.com/download/) - because somethings work only on chrome
 
 ### Utils
 
+- [Raycast](https://www.raycast.com/) - spotlight and alfred alternative
 - [Dato](https://sindresorhus.com/dato) - better date menu bar app
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369?mt=12) - bandwidth monitoring
 - [Sensible side button](https://sensible-side-buttons.archagon.net/) - for gaming mouse
@@ -105,11 +103,8 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Thor](https://apps.apple.com/cn/app/thor/id1120999687?l=en&mt=12) - painless application switching
 - [Dozer](https://dozermac.com/) - hide menu bar icons
 - [Android File Transfer](https://www.android.com/filetransfer/) - for android phones
-- [Alfred](https://www.alfredapp.com/) - <kbd>Cmd</kbd> + <kbd>Space</kbd> everything
 - [Pock](https://pock.dev/) - touchbar dock
 - [MTMR](https://github.com/Toxblh/MTMR) - touchbar customizations
-- [Oversight](https://objective-see.com/products/oversight.html) - monitor for mic and webcam
-- [Mute me](https://objective-see.com/products/oversight.html) - mute touchbar toggle
 - [Markdown here](https://github.com/adam-p/markdown-here) - email in markdown
 - [Mos](https://github.com/Caldis/Mos) - smooth scrolling with external mouse
 - [Flotato](https://flotato.com/) - turn any webpage into floating app
@@ -118,7 +113,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 
 ### Dev
 
-- [Hyper](https://github.com/zeit/hyper) - minimal terminal
+- [iTerm](https://iterm2.com/) - terminal
 - [VSCode](https://code.visualstudio.com/download) - code editor
 - [GPG Suite](https://gpgtools.org/) - gpg manager
 - [Xcode](https://apps.apple.com/in/app/xcode/id497799835?mt=12) - react native stuff
@@ -166,7 +161,6 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [IINA](https://iina.io/) - media player
 - [Pym](https://apps.apple.com/in/app/pym/id1451733095?mt=12&app=apps&ign-mpt=uo%3D4) - image compression
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - video editing
-- [Buttercup](https://buttercup.pw/) - password manager
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - app uninstaller
 - [Authy](https://authy.com/download/) - 2FA client
 - [Clocker](https://apps.apple.com/us/app/clocker-menubar-world-clock/id1056643111?mt=12) - timezones menubar app
