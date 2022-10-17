@@ -80,6 +80,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [sudo](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/sudo)
 - [web-search](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/web-search)
 - [jay](https://github.com/nikersify/jay)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - improved `youtube-dl`
 
 ### Browsers
 
