@@ -87,6 +87,10 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Firefox](https://www.mozilla.org/en-US/firefox/mac/)
 - <s>[Chrome](https://www.google.com/chrome/)</s> [Brave](https://brave.com/download/) - because somethings work only on chrome
 
+#### Extensions
+
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - auto skips YouTube sponsors
+
 ### Utils
 
 - [Raycast](https://www.raycast.com/) - spotlight and alfred alternative
