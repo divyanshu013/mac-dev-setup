@@ -18,6 +18,8 @@
 defaults write -g ApplePressAndHoldEnabled -bool false
 ```
 
+4. Move key repeat rate and delay until repeat all the way to the right
+
 ## Setup
 
 1. Install [Firefox](https://www.mozilla.org/en-US/firefox/mac/).
