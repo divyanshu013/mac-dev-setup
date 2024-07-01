@@ -12,21 +12,15 @@
 
 2. Enable **Accessibility** / **Mouse and trackpad** / **Trackpad options** / **Enable dragging** / **Three finger drag**
 
-3. Move dock to the left
-
-4. Disable accent menu (needs restart):
+3. Disable accent menu (needs restart):
 
 ```sh
 defaults write -g ApplePressAndHoldEnabled -bool false
 ```
 
-5. Fix a11y (awful mac default): Preferences -> Keyboard -> Shortcuts -> Use keyboard navigation to move focus between controls
-
 ## Setup
 
 1. Install [Firefox](https://www.mozilla.org/en-US/firefox/mac/).
-
-- In [about:config](about:config) set `accessibility.tabfocus` to `7`
 
 2. Install [homebrew](https://brew.sh/). Also installs command line tools.
 
@@ -85,7 +79,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 ### Browsers
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/mac/)
-- <s>[Chrome](https://www.google.com/chrome/)</s> [Brave](https://brave.com/download/) - because somethings work only on chrome
+- <s>Chrome</s> [Brave](https://brave.com/download/) - because somethings work only on chrome
 
 #### Extensions
 
