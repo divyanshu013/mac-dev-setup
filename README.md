@@ -22,14 +22,14 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 ## Setup
 
-1. Install [Firefox](https://www.mozilla.org/en-US/firefox/mac/).
+1. Install [Brave](https://brave.com/download/).
 
 2. Install [homebrew](https://brew.sh/). Also installs command line tools.
 
 3. Install brew packages.
 
 ```sh
-brew install git vim yarn wget watchman tree hub git-standup ffmpeg github/gh/gh
+brew install git vim yarn wget watchman tree ffmpeg github/gh/gh
 ```
 
 4. Configure `git`:
@@ -46,7 +46,7 @@ git config --global user.email email@email.com
 7. Install `quick-look` plugins:
 
 ```sh
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook quicklookase qlvideo
 ```
 
 ### CLI
@@ -54,8 +54,6 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 1. Install [Oh my ZSH](https://github.com/robbyrussell/oh-my-zsh)
 
 2. Install [dotfiles](https://github.com/divyanshu013/dotfiles/)
-
-3. Install [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 #### CLI plugins
 
@@ -81,7 +79,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 ### Browsers
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/mac/)
-- <s>Chrome</s> [Brave](https://brave.com/download/) - because somethings work only on chrome
+- [Brave](https://brave.com/download/)
 
 #### Extensions
 
