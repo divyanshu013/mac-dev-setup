@@ -83,6 +83,19 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 
 #### Extensions
 
+- Bitwarden
+- Dark Reader
+- File icons for GitHub and GitLab
+- Keepa
+- Lighthouse
+- Markdown Here
+- MetaMask
+- Minimal Theme for Twitter / X
+- Phantom
+- Raindrop.io
+- React Developer Tools
+- Reddit Enhancement Suite
+- Wikiwand
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - auto skips YouTube sponsors
 
 ### Utils
