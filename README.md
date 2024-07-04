@@ -100,6 +100,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 
 ### Utils
 
+- [TickTick](https://ticktick.com/download) - task management
 - [Raycast](https://www.raycast.com/) - spotlight and alfred alternative
 - [Dato](https://sindresorhus.com/dato) - better date menu bar app
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369?mt=12) - bandwidth monitoring
@@ -150,7 +151,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 ### Music
 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - spotify and itunes menubar app
-- [Spotify](https://www.spotify.com/us/download/other/) - best music app
+- [Spotify](https://www.spotify.com/us/download/mac/) - best music app
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - song lyrics
 
 ### Apps
