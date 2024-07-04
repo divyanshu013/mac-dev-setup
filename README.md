@@ -29,7 +29,7 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 3. Install brew packages.
 
 ```sh
-brew install git vim yarn wget watchman tree ffmpeg github/gh/gh
+brew install git vim yarn wget watchman tree ffmpeg gh
 ```
 
 4. Configure `git`:
@@ -132,9 +132,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [GPG Suite](https://gpgtools.org/) - gpg manager
 - [Xcode](https://apps.apple.com/in/app/xcode/id497799835?mt=12) - react native stuff
 - [Android Studio](https://developer.android.com/studio) - react native stuff
-- [Insomnia](https://insomnia.rest/) - rest client
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger/) - react native debugging
-- [GraphQL Playground](https://github.com/prisma/graphql-playground) - graphql client
 - [Table Plus](https://tableplus.io/) - the DB app
 - [Sequel Pro](https://www.sequelpro.com/) - MySQL client
 - [Postgres app](https://postgresapp.com/downloads.html) - Postgres for mac
@@ -147,16 +145,13 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [brew-services-menubar](https://github.com/andrewn/brew-services-menubar) - managing brew services from menubar
 - [ngrok](https://ngrok.com/download) - localhost tunnel
 - [RunJS](https://runjs.dev/) - JS runtime desktop app that executes as you type
+- [Hoppscotch](https://hoppscotch.io/) - API Client
 
 ### Music
 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - spotify and itunes menubar app
-- [Spotify](https://www.spotify.com/us/download/other/) - best music app (but not all music available yet)
+- [Spotify](https://www.spotify.com/us/download/other/) - best music app
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - song lyrics
-- [YTMusic](https://ytmusic.app/) - YouTube music app
-- [Studio One](https://my.presonus.com/products/software) - DAW
-- [Audacity](https://www.audacityteam.org/download/mac/) - audio recorder
-- [Boss Tone Studio](https://www.boss.info/global/products/gt-1/downloads/) - guitar processor software
 
 ### Apps
 
@@ -175,11 +170,9 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [IINA](https://iina.io/) - media player
 - [Pym](https://apps.apple.com/in/app/pym/id1451733095?mt=12&app=apps&ign-mpt=uo%3D4) - image compression
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - video editing
-- [App Cleaner](https://freemacsoft.net/appcleaner/) - app uninstaller
-- [Authy](https://authy.com/download/) - 2FA client
 - [Clocker](https://apps.apple.com/us/app/clocker-menubar-world-clock/id1056643111?mt=12) - timezones menubar app
 - [Flip clock screensaver](https://fliqlo.com/#/screensaver) - nice screensaver
-- [Gifski](https://github.com/sindresorhus/Gifski) - videos to gif
+- [Notion](https://www.notion.so/desktop/mac-universal/download)
 
 ## Related
 
