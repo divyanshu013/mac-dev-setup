@@ -156,14 +156,9 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 ### Apps
 
 - [Raindrop](http://raindrop.io/) - all my bookmarks
-- [TunnelBear](https://www.tunnelbear.com/apps/mac) - VPN client
 - [Zoom](https://zoom.us/download#client_4meeting) - video calls
 - [Black Out](https://apps.apple.com/no/app/black-out/id1319884285) - hide sensitive information on images
 - [Dropbox](https://www.dropbox.com/downloading) - cloud storage
-- [Steam](https://store.steampowered.com/about/) - games
-- [Notable](https://github.com/notable/notable/releases) - simple markdown editor
-- [Typora](https://typora.io/) - markdown editor
-- [Mark Text](https://github.com/marktext/marktext) - markdown editor like typora but open-source
 - [Discord](https://discordapp.com/api/download?platform=osx) - chat client
 - [Telegram](https://telegram.org/) - chat client
 - [Figma](https://www.figma.com/downloads/) - design software
@@ -173,6 +168,8 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Clocker](https://apps.apple.com/us/app/clocker-menubar-world-clock/id1056643111?mt=12) - timezones menubar app
 - [Flip clock screensaver](https://fliqlo.com/#/screensaver) - nice screensaver
 - [Notion](https://www.notion.so/desktop/mac-universal/download)
+- [WhatsApp](https://www.whatsapp.com/download/)
+- [Slack](https://slack.com/downloads/mac)
 
 ## Related
 
