@@ -114,7 +114,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Kap](https://getkap.co/) - screen recorder
 - [Mounty](https://mounty.app/) - NTFS volumes in write mode
 - [Thor](https://apps.apple.com/cn/app/thor/id1120999687?l=en&mt=12) - painless application switching
-- [Dozer](https://dozermac.com/) - hide menu bar icons
+- [Dozer](https://github.com/Mortennn/Dozer) - hide menu bar icons
 - [Android File Transfer](https://www.android.com/filetransfer/) - for android phones
 - [Pock](https://pock.dev/) - touchbar dock
 - [MTMR](https://github.com/Toxblh/MTMR) - touchbar customizations
