@@ -29,7 +29,7 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 3. Install brew packages.
 
 ```sh
-brew install git vim yarn wget watchman tree ffmpeg gh
+brew install git vim yarn wget watchman tree ffmpeg gh coreutils
 ```
 
 4. Configure `git`:
@@ -171,6 +171,8 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Notion](https://www.notion.so/desktop/mac-universal/download)
 - [WhatsApp](https://www.whatsapp.com/download/)
 - [Slack](https://slack.com/downloads/mac)
+- [Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011)
+- [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - photo editing
 
 ## Related
 
