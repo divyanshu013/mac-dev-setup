@@ -46,7 +46,7 @@ git config --global user.email email@email.com
 7. Install `quick-look` plugins:
 
 ```sh
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook quicklookase qlvideo
+brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook quicklookase qlvideo --cask
 ```
 
 ### CLI
@@ -156,6 +156,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 
 ### Apps
 
+- [Obsidian](https://obsidian.md/download)
 - [Raindrop](http://raindrop.io/) - all my bookmarks
 - [Zoom](https://zoom.us/download#client_4meeting) - video calls
 - [Black Out](https://apps.apple.com/no/app/black-out/id1319884285) - hide sensitive information on images
@@ -170,6 +171,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 - [Flip clock screensaver](https://fliqlo.com/#/screensaver) - nice screensaver
 - [Notion](https://www.notion.so/desktop/mac-universal/download)
 - [WhatsApp](https://www.whatsapp.com/download/)
+- [Signal](https://signal.org/download/)
 - [Slack](https://slack.com/downloads/mac)
 - [Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011)
 - [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - photo editing
