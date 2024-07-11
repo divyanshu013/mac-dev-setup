@@ -55,6 +55,8 @@ brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpqui
 
 2. Install [dotfiles](https://github.com/divyanshu013/dotfiles/)
 
+3. Install [asdf](https://github.com/asdf-vm/asdf?tab=readme-ov-file#documentation)
+
 #### CLI plugins
 
 - [Fig](https://fig.io/) - modern terminal autocomplete
