@@ -46,7 +46,7 @@ git config --global user.email email@email.com
 7. Install `quick-look` plugins:
 
 ```sh
-brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook quicklookase qlvideo --cask
+brew install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook quicklookase qlvideo --cask
 ```
 
 ### CLI
