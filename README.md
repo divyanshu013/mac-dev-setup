@@ -59,13 +59,11 @@ brew install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook quick
 
 #### CLI plugins
 
-- [Fig](https://fig.io/) - modern terminal autocomplete
 - [ZSH autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
 - [bgnotify](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/bgnotify)
 - [ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 - [z](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z)
 - [fzf](https://github.com/junegunn/fzf)
-- [fkill-cli](https://github.com/sindresorhus/fkill-cli)
 - [fx](https://github.com/antonmedv/fx)
 - [bat](https://github.com/sharkdp/bat#on-macos-or-linux-via-homebrew)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
