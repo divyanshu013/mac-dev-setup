@@ -76,6 +76,7 @@ brew install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook quick
 - [jay](https://github.com/nikersify/jay)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - improved `youtube-dl`
 - [pnpm](https://pnpm.io/installation)
+- [Zellij](http://zellij.dev/)
 
 ### Browsers
 
